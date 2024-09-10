@@ -1,0 +1,152 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which suffix means \"without\" or \"lacking\"?",
+        "options": ["-able", "-ible", "-less", "-ful"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "The suffix \"-able\" usually means \"capable of\" or \"suitable for\".",
+        "options": ["True", "False"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Fill in the blank:<br> The word \"visible\" uses the suffix _______.",
+        "options": ["-able", "-ible"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "What does the suffix \"-ful\" mean in the word \"helpful\"?",
+        "options": ["Without", "Full of", "State of", "Before"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which word is formed correctly?",
+        "options": ["Washible", "Washable", "Washless", "Washful"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "All words ending in \"-ible\" can be changed to end in \"-able\" instead.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Fill in the blank:<br> Something that cannot be counted is ________.",
+        "options": ["Countable", "Countless"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which word means \"able to be moved\"?",
+        "options": ["Moveless", "Movable", "Movible", "Moveble"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blank:<br> If something can flex, it is ________.",
+        "options": ["Flexible", "Flexful"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "What does \"careful\" mean?",
+        "options": ["Without care", "Full of care", "Care again", "Before care"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which word means \"without hope\"?",
+        "options": ["Hopable", "Hopible", "Hopeless", "Hopeful"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Fill in the blank:<br> If you can read something, it is ________.",
+        "options": ["Readible", "Readable"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "What does \"careless\" mean?",
+        "options": ["Full of care", "Without care", "Care again", "Before care"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which word is formed correctly?",
+        "options": ["Visable", "Visless", "Visible", "Visful"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "The word \"incredible\" uses the suffix \"-able\".",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "The suffix \"-ful\" in \"powerful\" means \"without.\"",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Fill in the blank:<br> Someone without fear is ________.",
+        "options": ["Fearful", "Fearless"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which word means \"something that can be washed\"?",
+        "options": ["Washless", "Washible", "Washable", "Washer"],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "The suffix \"-able\" is always added to the end of a word without changing its spelling.",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "What does \"thoughtful\" mean?",
+        "options": ["Without thought", "Full of thought", "Think again", "Before thought"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Fill in the blank:<br> If something can be divided, it is ________.",
+        "options": ["Dividible", "Divisible"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Which word means<br> \"lasting for a long time and seeming to have no end\"?",
+        "options": ["Endless", "Endable", "Endible", "Endful"],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "The word \"audible\" uses the suffix \"-able\".",
+        "options": ["True", "False"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Fill in the blank:<br> If you can adapt something, it is ________.",
+        "options": ["Adaptful", "Adaptable"],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Which word is formed correctly?<ol type='i'><li>Painable</li><li>Painible</li><li>Painless </li><li>Painful</li></ol>",
+        "options": ["Only i", "Both iii and iv", "Only iii", "Only iv"],
+        "correct": 1
+    }
+]
